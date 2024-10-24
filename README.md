@@ -11,6 +11,9 @@ This project is a simple React application that demonstrates a basic structure i
 - Styled with Tailwind CSS
 - Easy to extend and modify
 
+##screenshot
+
+
 ## Installation
 
 To get started with this project, follow these steps:
@@ -18,3 +21,4 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+## License 
