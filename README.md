@@ -12,7 +12,7 @@ This project is a simple React application that demonstrates a basic structure i
 - Easy to extend and modify
 
 ## screenshot
-
+![Screenshot 2024-10-24 212135](https://github.com/user-attachments/assets/e6d6f508-aab9-415e-9f90-3e7d08c9d8d2)
 
 ## Installation
 
